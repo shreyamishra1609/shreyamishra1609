@@ -85,11 +85,4 @@ Seeking a responsible position in a reputed ﬁrm where I can nurture and learn 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔥 KEEP MOVING!!
-
-- 🌱 I’m currently learning TypeScript, React, Flask 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript,Freelancing,Open Source 
 
