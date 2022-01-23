@@ -8,11 +8,10 @@ Seeking a responsible position in a reputed ﬁrm where I can nurture and learn 
 
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
-👨🏻‍🎓 Vellore Institute of Technology, Chennai
+👨🏻‍🎓 System Engineer at @Infosys Ltd
 <br>🤖 Web & UI/UX Enthusiast
-<br>⚒️ Focusing on Contributing to Open Source and several projects💜
-<br>👨‍💻 Learning Java, React, Flutter and PHP
-<br>🛸 Robotics enthusiast
+<br>⚒️ Full Stack Developer
+<br>👨‍💻 Learning Java, Angular
 <br>📸 Photographer
  </div>
 
@@ -21,7 +20,7 @@ Seeking a responsible position in a reputed ﬁrm where I can nurture and learn 
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div align="center">
 
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![Angular Badge](https://img.shields.io/badge/Angular-6d4dff?style=for-the-badge&logo=Angular&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  
 
 </div>
 <h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
@@ -94,17 +93,3 @@ Seeking a responsible position in a reputed ﬁrm where I can nurture and learn 
 
 - 💬 Talk to me about Python, JavaScript,Freelancing,Open Source 
 
-<!--
-**shreyamishra1609/shreyamishra1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
