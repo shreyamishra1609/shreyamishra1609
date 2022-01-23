@@ -49,6 +49,8 @@ Seeking a responsible position in a reputed ﬁrm where I can nurture and learn 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamishra1609&layout=compact&theme=radical&show_icons=true)](https://github.com/shreyamishra1609/github-readme-stats)
 
 </p>
+<!-- <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p> -->
+
 - 📫 How to reach me **connectshreyamishra@gmail.com**
 <br><br>
 <hr>
